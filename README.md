@@ -39,6 +39,10 @@ Examples of supported page ranges in this demo:
 
 Please report issues at [https://github.com/js29a/ruIndy-pub/issues](https://github.com/js29a/ruIndy-pub/issues)
 
+## off-line version
+
+Coming soon ...
+
 ## rendered example
 
 ![the sample](https://github.com/js29a/ruIndy-pub/assets/78456/c045f97e-6527-4cae-aae3-a750f99b0613)
