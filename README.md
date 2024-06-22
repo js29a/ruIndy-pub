@@ -35,3 +35,6 @@ Examples of supported page ranges in this demo:
 * `13` - arabic numbers,
 * `B-13` - addendums,
 
+## issues
+
+https://github.com/js29a/ruIndy-pub/issues
