@@ -2,7 +2,7 @@
 
 ruIndy project - generate on-line ind files from idx files
 
-project website: https://latex.js29a.info.pl/
+project website: [https://latex.js29a.info.pl/](https://latex.js29a.info.pl/)
 
 ## Usage
 
@@ -37,4 +37,4 @@ Examples of supported page ranges in this demo:
 
 ## issues
 
-https://github.com/js29a/ruIndy-pub/issues
+Please report issues at [https://github.com/js29a/ruIndy-pub/issues](https://github.com/js29a/ruIndy-pub/issues)
